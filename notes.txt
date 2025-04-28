@@ -1,0 +1,12 @@
+halo
+
+git status
+- working directory
+git add .
+
+- staging index
+
+git commit -m "commit 1"
+- comit
+
+halo
