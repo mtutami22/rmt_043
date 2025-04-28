@@ -12,3 +12,19 @@ git commit -m "commit 1"
 halo
 
 halo halo
+
+buat update
+git add .
+git commit -m "nama"
+git push
+
+buat hapus
+git add .
+git commit -m "delete"
+git push
+
+pengecualian kirim file
+bikin file .gitignore
+di dalam filenya tulis
+namafile.txt
+lalu update
